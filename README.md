@@ -13,6 +13,7 @@
 - [X] F1 Prediction Model <br>
 - [ ] Trackmania RL Bot <br>
 - [ ] Trackmania RL Competition <br>
+- [ ] Radar/Sonar RL RC car 
 - [X] Terrain Simulator <br>
 - [X] Country Simulator <br>
 - [X] Country Simulator basic AI <br>
